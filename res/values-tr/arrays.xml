@@ -66,6 +66,13 @@
         <item>Kısayollar &amp; Widgetler</item>
     </string-array>
 
+    <string-array name="pageindicator_mode_entries">
+         <item></item>Varsayılan</item>
+         <item>Sadece ana ekran</item>
+         <item>Sadece uygulama eranı</item>
+         <item>Hiçbiri</item>
+     </string-array>
+
     <string-array name="tabcontent_entries">
         <item>Uygulamalar</item>
         <item>Widgetler</item>
